@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseAuthPhone</string>
+    <string name="sign_in">Sign in</string>
+    <string name="resend_code">Resend Code</string>
+    <string name="send">Send</string>
+    <string name="phone_number">Phone number</string>
+    <string name="code">Code</string>
+    <string name="nextActivity">MainActivity to PhoneActivity</string>
+</resources>
