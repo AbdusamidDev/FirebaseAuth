@@ -24,7 +24,6 @@ class PhoneActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         binding = ActivityPhoneBinding.inflate(layoutInflater)
         setContentView(binding.root)
-
         auth = FirebaseAuth.getInstance()
         auth.setLanguageCode("uz")
 
